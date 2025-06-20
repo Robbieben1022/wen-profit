@@ -1,0 +1,9 @@
+{
+  "name": "Wen Share Profit?",
+  "short_name": "WSP",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#7c3aed",
+  "icons": []
+}
